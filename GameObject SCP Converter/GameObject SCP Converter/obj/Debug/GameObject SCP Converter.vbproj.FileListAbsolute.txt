@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\bin\Debug\GameObject SCP Converter.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\bin\Debug\GameObject SCP Converter.exe
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\bin\Debug\GameObject SCP Converter.pdb
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\bin\Debug\GameObject SCP Converter.xml
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject SCP Converter.vbprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject_SCP_Converter.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject_SCP_Converter.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject SCP Converter.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject SCP Converter.exe
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject SCP Converter.xml
+c:\users\owner\documents\visual studio 2015\Projects\GameObject SCP Converter\GameObject SCP Converter\obj\Debug\GameObject SCP Converter.pdb

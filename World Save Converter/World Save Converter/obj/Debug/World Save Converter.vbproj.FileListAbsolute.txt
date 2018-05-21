@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\bin\Debug\World Save Converter.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\bin\Debug\World Save Converter.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\bin\Debug\World Save Converter.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\bin\Debug\World Save Converter.xml
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World Save Converter.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World_Save_Converter.Form1.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World_Save_Converter.Resources.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World Save Converter.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World Save Converter.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World Save Converter.xml
+C:\Users\Owner\documents\visual studio 2015\Projects\World Save Converter\World Save Converter\obj\Debug\World Save Converter.pdb

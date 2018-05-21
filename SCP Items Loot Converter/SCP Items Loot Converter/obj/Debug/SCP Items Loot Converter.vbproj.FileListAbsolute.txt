@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\bin\Debug\SCP Items Loot Converter.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\bin\Debug\SCP Items Loot Converter.exe
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\bin\Debug\SCP Items Loot Converter.pdb
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\bin\Debug\SCP Items Loot Converter.xml
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP Items Loot Converter.vbprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP_Items_Loot_Converter.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP_Items_Loot_Converter.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP Items Loot Converter.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP Items Loot Converter.exe
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP Items Loot Converter.xml
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Loot Converter\SCP Items Loot Converter\obj\Debug\SCP Items Loot Converter.pdb

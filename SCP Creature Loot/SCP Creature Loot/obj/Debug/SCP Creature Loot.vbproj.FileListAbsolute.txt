@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\bin\Debug\SCP Creature Loot.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\bin\Debug\SCP Creature Loot.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\bin\Debug\SCP Creature Loot.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\bin\Debug\SCP Creature Loot.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP Creature Loot.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP_Creature_Loot.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP_Creature_Loot.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP Creature Loot.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP Creature Loot.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP Creature Loot.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Creature Loot\SCP Creature Loot\obj\Debug\SCP Creature Loot.pdb

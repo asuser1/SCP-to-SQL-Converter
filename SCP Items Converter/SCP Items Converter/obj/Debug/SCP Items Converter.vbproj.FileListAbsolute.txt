@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\bin\Debug\SCP Items Converter.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\bin\Debug\SCP Items Converter.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\bin\Debug\SCP Items Converter.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\bin\Debug\SCP Items Converter.xml
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP Items Converter.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP_Items_Converter.Form1.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP_Items_Converter.Resources.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP Items Converter.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP Items Converter.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP Items Converter.xml
+C:\Users\Owner\documents\visual studio 2015\Projects\SCP Items Converter\SCP Items Converter\obj\Debug\SCP Items Converter.pdb

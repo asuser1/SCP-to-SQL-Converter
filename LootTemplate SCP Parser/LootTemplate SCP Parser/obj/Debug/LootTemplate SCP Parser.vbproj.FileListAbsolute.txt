@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\bin\Debug\LootTemplate SCP Parser.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\bin\Debug\LootTemplate SCP Parser.exe
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\bin\Debug\LootTemplate SCP Parser.pdb
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\bin\Debug\LootTemplate SCP Parser.xml
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate SCP Parser.vbprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate_SCP_Parser.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate_SCP_Parser.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate SCP Parser.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate SCP Parser.exe
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate SCP Parser.xml
+c:\users\owner\documents\visual studio 2015\Projects\LootTemplate SCP Parser\LootTemplate SCP Parser\obj\Debug\LootTemplate SCP Parser.pdb

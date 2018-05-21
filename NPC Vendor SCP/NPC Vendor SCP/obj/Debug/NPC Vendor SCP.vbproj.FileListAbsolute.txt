@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\bin\Debug\NPC Vendor SCP.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\bin\Debug\NPC Vendor SCP.exe
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\bin\Debug\NPC Vendor SCP.pdb
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\bin\Debug\NPC Vendor SCP.xml
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC Vendor SCP.vbprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC_Vendor_SCP.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC_Vendor_SCP.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC Vendor SCP.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC Vendor SCP.exe
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC Vendor SCP.xml
+c:\users\owner\documents\visual studio 2015\Projects\NPC Vendor SCP\NPC Vendor SCP\obj\Debug\NPC Vendor SCP.pdb

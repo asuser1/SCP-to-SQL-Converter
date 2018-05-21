@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\SCP Spell Train\SCP Spell Train\bin\Debug\SCP Spell Train.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\bin\Debug\SCP Spell Train.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\bin\Debug\SCP Spell Train.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\bin\Debug\SCP Spell Train.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP Spell Train.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP_Spell_Train.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP_Spell_Train.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP Spell Train.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP Spell Train.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP Spell Train.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\SCP Spell Train\SCP Spell Train\obj\Debug\SCP Spell Train.pdb

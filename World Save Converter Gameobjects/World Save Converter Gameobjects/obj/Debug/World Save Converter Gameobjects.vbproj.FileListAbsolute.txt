@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\bin\Debug\World Save Converter Gameobjects.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\bin\Debug\World Save Converter Gameobjects.exe
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\bin\Debug\World Save Converter Gameobjects.pdb
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\bin\Debug\World Save Converter Gameobjects.xml
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World Save Converter Gameobjects.vbprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World_Save_Converter_Gameobjects.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World_Save_Converter_Gameobjects.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World Save Converter Gameobjects.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World Save Converter Gameobjects.exe
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World Save Converter Gameobjects.xml
+c:\users\owner\documents\visual studio 2015\Projects\World Save Converter Gameobjects\World Save Converter Gameobjects\obj\Debug\World Save Converter Gameobjects.pdb
